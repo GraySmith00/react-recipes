@@ -5,7 +5,7 @@ import RecipeList from './RecipeList';
 import './App.css';
 
 
-class RecipeApp extends Component {
+class App extends Component {
   render() {
     return (
       <div className="App">
@@ -16,4 +16,4 @@ class RecipeApp extends Component {
   }
 }
 
-export default RecipeApp;
+export default App;
